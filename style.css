@@ -8,12 +8,12 @@ body {
     margin: 50px;
 }
 
-.half-width {
+.half-width1 {
     width: 50%;
     padding-left: 5%;
 }
 
-.text {
+.text1 {
     margin-top: 25px;
     margin-left: 120px;
 }
@@ -29,7 +29,7 @@ h1 {
 }
 
 p {
-    font-size: 17px;
+    font-size: 18px;
     padding-bottom: 15px;
     color: gray;
 }
@@ -38,14 +38,53 @@ p {
     text-decoration: none;
     background-image: linear-gradient(rgba(63, 190, 237, 0.888), rgba(8, 172, 248, 0.819));
     color: white;
-    padding: 10px 40px;
+    padding: 8px 12px;
     border-radius: 20px;
+    font-size: 14px;
 }
 
-.image {
+.image1 {
     margin-right: 210px;
 }
 
-.half-width img {
+.image1 img {
     width: 110%;
+}
+
+.about-me {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.half-width {
+    display: flex;
+    height: 455px;
+    background-image: url(images/shapes/Frame-57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2 {
+    color: dimgray;
+    font-weight: bold;
+}
+
+.image2 {
+    margin-left: 120px;
+}
+
+.image2 img {
+    width: 70%;
+
+}
+
+.half-width2 {
+    width: 50%;
+    margin-top: 50px;
+    padding-right: 8%;
+}
+
+.text2 {
+    margin-top: 25px;
+    margin-right: 120px;
 }
