@@ -1,0 +1,51 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    display: flex;
+    margin: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.text {
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.blue-colour {
+    color: rgb(69, 165, 203);
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: dimgray;
+}
+
+p {
+    font-size: 17px;
+    padding-bottom: 15px;
+    color: gray;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(63, 190, 237, 0.888), rgba(8, 172, 248, 0.819));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+.image {
+    margin-right: 210px;
+}
+
+.half-width img {
+    width: 110%;
+}
